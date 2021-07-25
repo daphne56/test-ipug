@@ -1,2 +1,2 @@
 # test-ipug
-# testing new basic static websit
+# testing new basic static website
